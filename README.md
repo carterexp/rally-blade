@@ -7,11 +7,17 @@ P1 |Q W E A S D F
 P2 |I O P K L ; ‘
 
 Q/I  | parry
+
 W/O  | jump
+
 E/P  | basic attack
+
 A/K  | left
-S/L  | fastfall (air)/heal (ground)
+
+S/L  | heal
+
 D/;  | right
+
 F/’  | air slash
 
 Basic attacks have a shorter range, though they can be used quickly.
