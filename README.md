@@ -2,6 +2,8 @@
 casual local 2 player desktop 2d fighting game
 
 P1 |Q W E A S D F
+
+
 P2 |I O P K L ; ‘
 
 Q/I  | parry
