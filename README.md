@@ -1,8 +1,9 @@
 # rally-blade
-casual local 2 player desktop 2d fighting game
+Casual Local 2 Player Desktop 2D Fighting Game
+
+# Basics
 
 P1 |Q W E A S D F
-
 
 P2 |I O P K L ; ‘
 
