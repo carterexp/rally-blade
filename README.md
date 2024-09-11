@@ -13,7 +13,7 @@ Air slashes take a while to come out, but are projectiles. They have a longer co
 
 Parry lasts for a short amount of time, but nullifies basic attacks and reflects air slashes. This has a cooldown, which refreshes instantly if you sucessfully parry.
 
-Reflecting air slashes can result in a tennis-like rally.
+Reflected air slashes can be rallied back and forth.
 
 Players will be in a best-of-three match.
 
