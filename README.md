@@ -1,7 +1,7 @@
-# rally-blade
+# Description
 Casual Local 2 Player Desktop 2D Fighting Game
 
-# Basics
+# Basic Mechanics
 
 P1 |Q W E A S D F
 
