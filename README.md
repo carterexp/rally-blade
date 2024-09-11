@@ -24,6 +24,6 @@ Reflecting air slashes can result in a tennis-like rally.
 
 Players will be in a best-of-three match.
 
-__________________________________________________________
-#*The more the slash is rallied, the more damage it deals.*
-__________________________________________________________
+__________________________________________________________________
+# Remember, the more the slash is rallied, the more damage it deals.
+__________________________________________________________________
