@@ -9,7 +9,7 @@ P2 |I O P K L ; ‘
 
 Basic attacks have a shorter range, though they can be used quickly.
 
-Air slashes take a while to come out, but are projectiles. They have a longer cooldown. They deal less damage than the basic attack.
+Air slashes take a while to come out, but are projectiles. They have a longer cooldown. They deal less damage than the basic attack*.
 
 Parry lasts for a short amount of time, but nullifies basic attacks and air slashes, and has a short cooldown.
 
@@ -33,6 +33,4 @@ D/;  | right
 
 F/’  | air slash
 _______________
-__________________________________________________________________
-# Remember, the more the slash is rallied, the more damage it deals.
-__________________________________________________________________
+**Remember, the more the slash is rallied, the more damage it deals.*
