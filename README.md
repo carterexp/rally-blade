@@ -14,6 +14,8 @@ Parry lasts for a short amount of time, but nullifies basic attacks and reflects
 
 Reflected air slashes can be rallied back and forth.
 
+While slow, the heal feature can be used during downtime in a fight, though it is highly punishable.
+
 Players will be in a best-of-three match.
 
 # Controls
