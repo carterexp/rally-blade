@@ -11,7 +11,7 @@ Basic attacks have a shorter range, though they can be used quickly.
 
 Air slashes take a while to come out, but are projectiles. They have a longer cooldown. They deal less damage than the basic attack*.
 
-Parry lasts for a short amount of time, but nullifies basic attacks and air slashes, and has a short cooldown.
+Parry lasts for a short amount of time, but nullifies basic attacks and reflects air slashes. This has a cooldown, which refreshes instantly if you sucessfully parry.
 
 Reflecting air slashes can result in a tennis-like rally.
 
