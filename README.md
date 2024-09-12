@@ -34,4 +34,4 @@ D/;  | right
 
 F/’  | air slash
 _______________
-**the more the slash is rallied, the more damage it deals, incentivizing rallies*
+**the more the slash is rallied, the more damage the slash deals*
