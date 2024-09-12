@@ -1,5 +1,5 @@
 # Description
-Rally Blade is a casual 2 player locally hosted 2D fighter browser game. The main mechanic of the game is the parry feature, which results in intense back and forth fights.
+Rally Blade is a casual 2 player locally hosted 2D fighter browser game. The main mechanic of the game is the parry feature, and how it reflects slashes, which results in intense back and forth fights.
 # Basic Mechanics
 
 P1 |Q W E A S D F
