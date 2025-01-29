@@ -1,14 +1,17 @@
+# Important:
+The game is still in development. A lot of time is being spent on optimizing it for smooth performance, which is hard to achieve on a web browser for all devices. Some features may appear unfinished.
+
 # Description
 Rally Blade is a casual 2 player locally hosted 2D fighter browser game. The main mechanic of the game is the parry feature, and how it reflects slashes, which results in intense back and forth fights.
 # Basic Mechanics
 
-P1 |Q W E A S D F
+P1 |Q W E A D F
 
-P2 |I O P K L ; ‘
+P2 |I O P K ; ‘
 
 Basic attacks have a shorter range, though they can be used quickly.
 
-Air slashes take a while to come out, but are projectiles. They have a longer cooldown. They deal less damage than the basic attack*.
+Air slashes are projectiles. They have a longer cooldown, but deal high damage.
 
 Parry lasts for a short amount of time, but nullifies basic attacks and reflects air slashes. This has a cooldown, which refreshes instantly if you sucessfully parry.
 
@@ -28,10 +31,7 @@ E/P  | basic attack
 
 A/K  | left
 
-S/L  | heal
-
 D/;  | right
 
 F/’  | air slash
 _______________
-**the more the slash is rallied, the more damage the slash deals*
